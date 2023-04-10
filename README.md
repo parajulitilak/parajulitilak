@@ -23,3 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parajulitilak&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=parajulitilak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://visitor-badge.glitch.me/badge?page_id=parajulitilak.parajulitilak" alt="Visitors Counter">
