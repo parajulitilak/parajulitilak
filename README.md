@@ -2,6 +2,11 @@
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/tilak_parajuli?label=follow%20me%20on%20twitter&style=social)](https://twitter.com/intent/follow?screen_name=tilak_parajuli)
+<p>
+  <a href="mailto:meetilakparajuli122@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/tilak-parajuli-777411179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25</a>
+ 
+</p>
 
 ---
 
