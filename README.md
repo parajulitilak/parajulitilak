@@ -9,10 +9,8 @@
 
 ---
 
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning and looking for Machine Learning Trainship/Internship. 
-- 👯 I’m looking to collaborate on open source and with other content creators
-- 💬 Ask me about ...soft skills
+- 🔭 You're currently seeing my profile.
+- 🌱 I’m currently looking for Machine Learning Trainship/Internship. 
 - ⚡ Fun fact: I love to play chess and listen music.
 
 ---
