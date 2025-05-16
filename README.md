@@ -9,8 +9,7 @@
 
 ---
 
-- 🔭 You're currently seeing my profile.
-- 🌱 I’m currently looking for Machine Learning Trainship/Internship. 
+- 🔭 You're currently seeing my profile. 
 - ⚡ Fun fact: I love to play chess and listen music.
 
 ---
